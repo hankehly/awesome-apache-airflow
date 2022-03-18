@@ -265,6 +265,7 @@ or see the individual talks here:*
 - [Airflow Documentation-Chinese](https://airflow.apachecn.org) - (🇨🇳Chinese) [Apachecn](https://github.com/apachecn) has translated the Airflow official documentation.
 - [Gestion de Tâches avec Apache Airflow](http://ncrocfer.github.io/posts/gestion-de-taches-avec-apache-airflow/) - (🇫🇷French) [Nicolas Crocfer](https://github.com/ncrocfer) - Overview of Airflow, basic concepts and how to write and trigger a DAG.
 - [apache airflow 複数worker構成のalpine版docker imageを作った](https://sekailab.com/wp/2018/04/05/apache-airflow-multinode-alpine-docker-image/) - (🇯🇵Japanese) [Akio Ohta](https://github.com/Drunkar) walks through his [Docker image](https://hub.docker.com/r/drunkar/airflow-alpine/) for deploying an Alpine-based Airflow system.
+- [【徹底解説】Airflow Fluentd Elasticsearch Docker の連携方法](https://qiita.com/hankehly/items/f525465bba8b47da0b76) - (🇯🇵Japanese) [hankehly](https://github.com/hankehly) describes how to store/retrieve task logs with Fluentd and Elasticsearch.
 - [Apache Airflow – Kaikki Mitä Meillä On, Lähtee Dageista](https://www.solita.fi/blogit/apache-airflow-kaikki-mita-meilla-on-lahtee-dageista/) - (🇫🇮Finnish) [Olli Iivonen](https://www.linkedin.com/in/oiivonen/)'s overview of Airflow, concepts and Airflow's usage at [Solita](https://www.solita.fi/).
 - [Airflow - Automatizando seu fluxo de trabalho](https://speakerdeck.com/gilsondev/airflow-automatizando-seu-fluxo-de-trabalho) - (🇧🇷Portuguese) [Gilson Filho](https://github.com/gilsondev)'s overview of Airflow, concept and basic use.
 - [Panduan Dasar Apache Airflow](https://imamdigmi.github.io/post/tutorial-airflow-part-1/) - (🇮🇩Indonesian) [Imam Digmi](https://github.com/imamdigmi) - Overview of Airflow, concept, basic use with use case.
@@ -275,6 +276,7 @@ or see the individual talks here:*
 
 - [Google Cloud Platform Public Datasets Pipelines](https://github.com/GoogleCloudPlatform/public-datasets-pipelines) - Cloud-native, data pipeline architecture for onboarding datasets to the Google Cloud Public Datasets Program.
 - [GitLab Data Team DAGs](https://gitlab.com/gitlab-data/analytics/-/tree/master/dags) - Several DAGs used to build analytics for the GitLab platform.
+- [deploy-airflow-on-ecs-fargate](https://github.com/hankehly/deploy-airflow-on-ecs-fargate) - An example of how to deploy Apache Airflow on Amazon ECS Fargate. Demonstrates various features, such as worker autoscaling, remote logging and secret management.
 
 ## License
 
